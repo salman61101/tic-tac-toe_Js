@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript as part of The Odin Project's JavaScript curriculum.
+A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ## Overview
 
@@ -136,13 +136,6 @@ Through this project I gained practical experience with:
 * Creating reusable components with factory functions
 * Separating business logic from UI logic
 * Building interactive browser applications
-
-## Acknowledgements
-
-This project was completed as part of The Odin Project JavaScript Course.
-
-The Odin Project:
-https://www.theodinproject.com
 
 ## Author
 
